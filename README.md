@@ -4,7 +4,8 @@ Welcome to my portfolio! I am an **Aspiring Data Analyst** and a B.Tech Computer
 
 Currently, I am honing my skills as a Data Analytics Intern at **Zaalima Development**.
 
-🚀 **[View My Live Portfolio Website](**https://asna123456.github.io/my-portfolio/**)
+🚀 **[View My Live Portfolio Website]
+ (**https://asna123456.github.io/my-portfolio/**)
 
 ---
 
